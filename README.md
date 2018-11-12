@@ -7,3 +7,5 @@ over time. This means taking the difference from the first frame to current fram
 one set of axes with masks with a colorscheme. Time permitting I will add in curvature analysis capabilities directly in this GUI. For
 now, if curvature analysis is desireable I suggest the Cell Curvature respository for individual cases. It does require some knowledge
 in Matlab.
+
+Run the GUI by either running the file Nuclear_Measure_GUI or by typing in the same name in the Matlab command line.
